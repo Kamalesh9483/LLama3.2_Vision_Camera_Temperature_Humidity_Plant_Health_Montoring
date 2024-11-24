@@ -1,5 +1,5 @@
-**Plant Health Monitoring System using Camera, Temperature & Humidity Sensor & Inference with Llama-3.2-11B-Vision
-**
+**Plant Health Monitoring System using Camera, Temperature & Humidity Sensor & Inference with Llama-3.2-11B-Vision**
+
 **Overview**
 This project is a Plant Health Monitoring System that utilizes real-time image recognition from a camera, alongside environmental data (temperature and humidity) to monitor the health of plants. The system uses a DHT11 sensor for temperature and humidity readings and an IP camera for capturing images of the plant. The data is then processed using the Llama-3.2-11B Vision Model for in-depth analysis. The project integrates a Flask API for receiving data from the sensors, text-to-speech (TTS) for vocalizing the health status of the plant, and a Groq API for processing the plant health analysis.
 
@@ -12,5 +12,6 @@ This project is a Plant Health Monitoring System that utilizes real-time image r
    
 ![image](https://github.com/user-attachments/assets/2292a9ac-b5ad-403e-a5e5-edd6b4c9eeec)
 ![image](https://github.com/user-attachments/assets/95f15af7-73c3-4f64-a8bd-0023c5eb2ea5)
+![image](https://github.com/user-attachments/assets/e34e672b-267e-40fe-86b1-45ecec6bdf23)
 
 
