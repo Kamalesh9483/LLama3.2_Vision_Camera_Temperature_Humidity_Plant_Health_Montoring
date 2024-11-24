@@ -12,6 +12,11 @@ This project is a Plant Health Monitoring System that utilizes real-time image r
    
 ![image](https://github.com/user-attachments/assets/2292a9ac-b5ad-403e-a5e5-edd6b4c9eeec)
 ![image](https://github.com/user-attachments/assets/95f15af7-73c3-4f64-a8bd-0023c5eb2ea5)
+
+
+https://github.com/user-attachments/assets/a977c2cd-e761-481b-85e9-01fbb60ff4c4
+
+
 ![image](https://github.com/user-attachments/assets/e34e672b-267e-40fe-86b1-45ecec6bdf23)
 
 
