@@ -1,0 +1,8 @@
+python-dotenv
+groq
+opencv-python
+pyttsx3
+Pillow
+gradio
+pyserial
+Flask
